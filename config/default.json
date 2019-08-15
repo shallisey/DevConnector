@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://shallisey:gigival@devconnector-rpsa8.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://shallisey:gigival@devconnector-rpsa8.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
