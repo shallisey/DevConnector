@@ -1,4 +1,5 @@
 import { SET_ALERT, REMOVE_ALERT } from '../actions/types';
+
 const initalState = [];
 
 export default function(state = initalState, action) {
